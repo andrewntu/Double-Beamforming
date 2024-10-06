@@ -1,0 +1,11 @@
+# GMT common arguments shelf
+-BWSen
+-JM5.5i
+-JX2.5i/2.5i
+-R0.15/3.05/0.15/3.05
+-x-3.5i
+-y-3.5i
+-jX2.5i/2.5i
+EOF
+F
+
