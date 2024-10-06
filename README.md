@@ -1,5 +1,5 @@
-# Project Name
-Multimode Double-Beamforming Technique
+# Multi-mode Double-Beamforming Technique
+
 
 ## Description
 This code aims to extract phase velocities in different modes in Rayleigh wave via double-beamforming technique. 
