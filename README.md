@@ -5,7 +5,7 @@
 This code aims to extract phase velocities in different modes in Rayleigh wave via double-beamforming technique. 
 1. To reference a webpage, you can use the following format:
    ```markdown
-   [Title of the article](https://doi.org/10.1093/gji/ggae283)
+   [Multimode ambient noise double-beamforming tomography with a dense linear array: revealing accretionary wedge architecture across Central Taiwan](https://doi.org/10.1093/gji/ggae283)
 
 ## Workflow
 1. Create source-receiver pair: python 01_create_src_rec_pair/get_double_beamforming_source_and_receiver_stations.py
