@@ -163,6 +163,6 @@ gmt makecpt -Cjet -T0/1/0.002 -Z > slow.cpt
 gmt surface slow.file -R -I0.01/0.01 -Gslow.grd
 gmt grdimage slow.grd -Cslow.cpt -R -J -K -O >> $PS
 fi
-rm *cpt *file *grd *conf *history
+rm *cpt *file *grd *.conf *history
 convert -density 300 -rotate 90 -trim $PS Figure/$PS'.jpg'
 rm $PS
